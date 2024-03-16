@@ -1,0 +1,56 @@
+.garouu {
+    height: 70vh;
+    float: left;
+  }
+
+
+.garo {
+    background-color: blue;
+  }
+
+
+
+.garou {
+    height: 70vh;
+    background-color: darkblue;
+}
+
+.com {
+    background-color: lightgray;
+    border-width: medium;
+    border-color: gray;
+    border-style: solid
+    
+    
+}
+
+.GarAva {
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    float: left;
+    
+    
+}
+.GarAva2 {
+  height: 90px;
+  width: 90px;
+  border-radius: 50%;
+  float: left;
+  
+  
+}
+
+.com2 {
+  height: 10vh;
+  background-color: lightgray;
+  border-width: medium;
+  border-color: gray;
+  border-style: solid
+  
+  
+  
+}
+
+
+

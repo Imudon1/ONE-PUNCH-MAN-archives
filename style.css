@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+
+
+div {
+    float: left;
+    height: 50vh;
+    
+  }
+  
+  .saitama {
+    width: 33%;
+    height: 100vh;
+    background-color: orange;
+    border-width:1;
+    border-color: chocolate;
+    border-style: solid
+  }
+  .genos {
+    width: 33%;
+    height: 100vh;
+    background-color: red;
+    border-width: 1;
+    border-color: firebrick;
+    border-style: solid;
+    
+  }
+  .garou {
+    width: 33%;
+    height: 100vh;
+    background-color: blue;
+    border-width: 1;
+    border-color: cornflowerblue;
+    border-style: solid
+    
+  }
+  .genoss {
+    height: 70vh;
+    float: left;
+    
+    
+  }
+
+  .garouu {
+    height: 70vh;
+    float: left;
+  }
+
+  .saitamaa {
+    float: left;
+  }
+
+  h2 {
+    margin-right: -3px;
+  }
+
+  .saitam {
+    background-color: chocolate;
+    height: 56.5vh;
+  }
+  .geno {
+    background-color: firebrick;
+    height: 56.5vh;
+  }
+
+  .garo {
+    background-color: cornflowerblue;
+    height: 56.5vh;
+  }
+  
+body {
+    background-color: black;
+}
+
+.menu {
+  background-color: #FFAB00;
+  height: 15vh;
+  width: 100%;
+}
+
+.menu p{
+  color: #FF0700;
+  font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  display: inline;
+  font-size: 500%;
+  margin: 30px;
+
+}
+
+.smallMenu {
+  background-color: #FF7600;
+  height: 5vh;
+  width: 100%;
+
+} 
+
+.smallMenu h4 {
+  color: #FF0700;
+  font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal; 
+  display: inline;
+  font-size: 100%;
+  margin: 30px;
+  
+}
+
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

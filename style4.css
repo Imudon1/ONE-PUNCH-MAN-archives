@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=Oi&display=swap');
+
+img {
+    border-radius: 20%;
+}
+
+.one {
+    float: left;
+    margin-right: 20px;
+}
+
+.OneB {
+    background-color: crimson;
+    height: 30vh;
+}
+
+.OneB p {
+    font-size: 25px;
+    margin: 20px;
+    font-family: "Chewy", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.Goal {
+    background-color: orangered;
+}
+
+.Goal {
+  font-family: "Oi", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: darkorange;
+ 
+  
+}
+
+.draw img{
+    height: 20vh;
+    display: inline;
+    width: 16%;
+}
+
+body {
+    background-color: coral;
+}

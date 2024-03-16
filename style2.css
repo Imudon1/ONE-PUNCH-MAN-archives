@@ -1,0 +1,56 @@
+.saitamaa {
+    height: 70vh;
+    float: left;
+  }
+
+
+.saitam {
+    background-color: chocolate;
+  }
+
+
+
+.saitama {
+    height: 70vh;
+    background-color: orange;
+}
+
+.com {
+    background-color: lightgray;
+    border-width: medium;
+    border-color: gray;
+    border-style: solid
+    
+    
+}
+
+.SaiAva {
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    float: left;
+    
+    
+}
+.SaiAva2 {
+  height: 90px;
+  width: 90px;
+  border-radius: 50%;
+  float: left;
+  
+  
+}
+
+.com2 {
+  height: 10vh;
+  background-color: lightgray;
+  border-width: medium;
+  border-color: gray;
+  border-style: solid
+  
+  
+  
+}
+
+
+

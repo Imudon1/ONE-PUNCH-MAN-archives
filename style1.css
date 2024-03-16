@@ -1,0 +1,56 @@
+.genoss {
+    height: 70vh;
+    float: left;
+  }
+
+
+.geno {
+    background-color: firebrick;
+  }
+
+
+
+.genos {
+    height: 70vh;
+    background-color: orangered;
+}
+
+.com {
+    background-color: lightgray;
+    border-width: medium;
+    border-color: gray;
+    border-style: solid
+    
+    
+}
+
+.GenAva {
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    float: left;
+    
+    
+}
+.GenAva2 {
+  height: 90px;
+  width: 90px;
+  border-radius: 50%;
+  float: left;
+  
+  
+}
+
+.com2 {
+  height: 10vh;
+  background-color: lightgray;
+  border-width: medium;
+  border-color: gray;
+  border-style: solid
+  
+  
+  
+}
+
+
+
